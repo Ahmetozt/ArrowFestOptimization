@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - times2
+  - collectable
+  - player
+  - times4
+  - per2
+  - per3
+  - per10
+  - stckParent
+  - plus10
+  - plus 5
+  - minus 5
+  - minus10
+  - minus25
+  - control25
+  - plus50
+  - plus25
+  - plus65
+  - plus20
+  - plus15
+  - plus40
+  - Enemy
+  - per20
+  - minus3
+  - plus16
+  - plus8
+  - minus2
+  - per12
+  - times20
+  - times12
+  - minus30
+  - plus100
+  - minus15
+  - times10
+  - plus30
+  - times3
+  - plus3
+  - plus18
+  - plus55
+  - times15
+  - minus8
+  - times5
+  - plus12
+  - plus22
+  - plus24
+  - plus75
+  - per1
+  - minus6
+  - minus18
+  - plus1
+  - plus42
+  - plus6
+  - minus1
+  - minus16
+  - plus72
+  - plus47
+  - plus4
+  - plus45
+  - plus35
+  - plus68
+  - plus44
+  - minus20
+  - times7
+  - plus34
+  - plus33
+  - minus33
+  - minus4
+  - per4
+  - plus32
+  - per6
+  - minus50
+  - minus22
+  - x1
+  - x1.2
+  - x1.4
+  - x1.6
+  - x1.8
+  - plus2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
